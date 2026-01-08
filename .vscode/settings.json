@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "dotenv",
+        "ipynb"
+    ],
+    "notebook.diff.ignoreOutputs": true,
+    "notebook.diff.ignoreMetadata": true,
+}
